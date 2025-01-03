@@ -9,6 +9,6 @@
 
 - em versões futuras pretendo implementar um banco de dados para ter mais segurança e tambem com o tempo poder montar um dataset. Esses dados coletados irá possibilitar realizar um aprendizado de maquina para gerar grafícos, prediçoes entre outras finalidades que o Machine Learning possa permitir.
 
--(V.2) O aplicativo base foi terminado. Foi implementado interface gráfica intuitiva em todas as funções, sistema de login e autenticador por SqLite.
+- (V.2) O aplicativo base foi terminado. Foi implementado interface gráfica intuitiva em todas as funções, sistema de login e autenticador por SqLite.
 
-Nas proximas versões será implementado um modelo de machine leraning ultilizando a biblioteca pandas, onde o mesmo irá gerar gráficos com insights de vendas e predições
+- Nas proximas versões será implementado um modelo de machine leraning ultilizando a biblioteca pandas, onde o mesmo irá gerar gráficos com insights de vendas e predições
