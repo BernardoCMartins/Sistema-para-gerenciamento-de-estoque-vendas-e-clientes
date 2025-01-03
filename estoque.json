@@ -1,0 +1,126 @@
+{
+    "notebook": {
+        "quantidade": 5,
+        "preco": 2300.0
+    },
+    "bola": {
+        "quantidade": 10,
+        "preco": 15.0
+    },
+    "carro": {
+        "quantidade": 43,
+        "preco": 10000.0
+    },
+    "c": {
+        "quantidade": 2,
+        "preco": 4.0
+    },
+    "d": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "e": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "f": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "g": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "h": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "i": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "j": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "k": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "l": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "m": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "n": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "p": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "q": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "1": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "2": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "3": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "4": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "5": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "6": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "7": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "8": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "9": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "10": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "11": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "12": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "13": {
+        "quantidade": 1,
+        "preco": 1.0
+    },
+    "iphone": {
+        "quantidade": 100,
+        "preco": 5000.0
+    }
+}
