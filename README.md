@@ -1,4 +1,4 @@
-# Sistema-para-gerenciamento-de-estoque-vendas-e-clientes V.1
+# Sistema-para-gerenciamento-de-estoque-vendas-e-clientes V.2
 - Sistema feito em python para gerenciamento de estoque, vendas e clientes.
 
 - Esse sistema vai ser testado e ultilizado pela empresa de varejo de tenis Best Shoes, coletando erros, falhas, e requisitos para ser adicionado em versões futuras.
